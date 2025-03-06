@@ -126,3 +126,7 @@ th {
         padding: 15px;
     }
 }
+
+.btn i {
+    margin-right: 8px; /* Adds space between icon and text */
+}
